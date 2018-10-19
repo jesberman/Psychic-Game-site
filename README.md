@@ -1,1 +1,1 @@
-# Psychic-Game-site
+# Psychic-Game
